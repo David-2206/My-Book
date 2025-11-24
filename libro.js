@@ -5,27 +5,27 @@ const paginas = [
     },
     {
         texto: "Este libro no nació de la necesidad de escribir, sino del deseo de que leas mi corazón en cada palabra. Cada frase aquí dentro está pensada para ti, para recordarte lo importante que eres en mi vida, lo feliz que me haces y lo mucho que te amo. No son solo palabras; son pedacitos de mi cariño, de mis pensamientos y de mis momentos contigo. Espero que, al pasar cada página, sientas un abrazo, una sonrisa y todo el amor que llevo dentro, porque todo esto está escrito para ti… y solo para ti.",
-        fondo: "/IMG/Paginas.jpg"
+        fondo: "IMG/Paginas.jpg"
     },
     {
         texto: "",
-        fondo: "/IMG/Paginas.jpg"
+        fondo: "IMG/Paginas.jpg"
     },
     {
         texto: "",
-        fondo: "/IMG/Paginas.jpg"
+        fondo: "IMG/Paginas.jpg"
     },
     {
         texto: "",
-        fondo: "/IMG/Paginas.jpg"
+        fondo: "IMG/Paginas.jpg"
     },
     {
         texto: "",
-        fondo: "/IMG/SemiFinal.png"
+        fondo: "IMG/SemiFinal.png"
     },
     {
         texto: "",
-        fondo: "/IMG/Final.jpg"
+        fondo: "IMG/Final.jpg"
     }
 ];
 

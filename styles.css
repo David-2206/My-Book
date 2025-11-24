@@ -1,5 +1,4 @@
 body {
-    /* Imagen de fondo del sitio. Cambia la ruta si quieres otra imagen. */
     --body-bg: url('IMG/Mesa.jpg');
     background-color: black;
     background-image: var(--body-bg);
