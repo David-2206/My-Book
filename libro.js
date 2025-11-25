@@ -4,11 +4,11 @@ const paginas = [
         fondo: "IMG/Portada.png"
     },
     {
-        texto: "Este libro no nació de la necesidad de escribir, sino del deseo de que leas mi corazón en cada palabra. Cada frase aquí dentro está pensada para ti, para recordarte lo importante que eres en mi vida, lo feliz que me haces y lo mucho que te amo. No son solo palabras; son pedacitos de mi cariño, de mis pensamientos y de mis momentos contigo. Espero que, al pasar cada página, sientas un abrazo, una sonrisa y todo el amor que llevo dentro, porque todo esto está escrito para ti… y solo para ti.",
+        texto: "Mi libro...\nEste libro no nació de la necesidad de escribir, sino del deseo de que leas mi corazón en cada palabra. Cada frase aquí dentro está pensada para ti, para recordarte lo importante que eres en mi vida, lo feliz que me haces y lo mucho que te amo. No son solo palabras; son pedacitos de mi cariño, de mis pensamientos y de mis momentos contigo. Espero que, al pasar cada página, sientas un abrazo, una sonrisa y todo el amor que llevo dentro, porque todo esto está escrito para ti… y solo para ti.\n\nDe: Daboyloper\nPara: Brigitte🩵",
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "Prueba...\nla palabra que uso\npara probar un código...💯",
+        texto: "",
         fondo: "IMG/Paginas.jpg"
     },
     {
