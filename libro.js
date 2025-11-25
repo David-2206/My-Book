@@ -8,7 +8,7 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "Prueba, es la palabra que uso para probar un código",
+        texto: "",
         fondo: "IMG/Paginas.jpg"
     },
     {
