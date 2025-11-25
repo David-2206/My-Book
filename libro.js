@@ -8,7 +8,7 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "Prueba...\nla palabra que uso para probar un código...💯",
+        texto: "Prueba...\nla palabra que uso\npara probar un código...💯",
         fondo: "IMG/Paginas.jpg"
     },
     {
@@ -65,7 +65,7 @@ function mostrarPagina() {
         texto.className = "texto";
         texto.textContent = paginas[actual].texto;
         texto.style.padding = "25px";
-        texto.style.textAlign = "center";
+        texto.style.textAlign = "left";
         texto.style.fontSize = "clamp(1rem, 2vw, 1.8rem)";
         texto.style.lineHeight = "1.4";
         texto.style.color = "black";
