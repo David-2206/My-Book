@@ -8,7 +8,7 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "Prueba...                        Es la palabra que uso para probar un código...💯",
+        texto: "Prueba...\nla palabra que uso para probar un código...💯",
         fondo: "IMG/Paginas.jpg"
     },
     {
@@ -69,6 +69,7 @@ function mostrarPagina() {
         texto.style.fontSize = "clamp(1rem, 2vw, 1.8rem)";
         texto.style.lineHeight = "1.4";
         texto.style.color = "black";
+texto.style.whiteSpace = "pre-line";
 
         const autor = document.createElement("div");
         autor.id = "autor";
