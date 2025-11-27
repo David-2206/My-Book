@@ -7,18 +7,33 @@ const paginas = [
         texto: "Mi libro...\nEste libro no nació de la necesidad de escribir, sino del deseo de que leas mi corazón en cada palabra. Cada frase aquí dentro está pensada para ti, para recordarte lo importante que eres en mi vida, lo feliz que me haces y lo mucho que te amo. No son solo palabras; son pedacitos de mi cariño, de mis pensamientos y de mis momentos contigo. Espero que, al pasar cada página, sientas un abrazo, una sonrisa y todo el amor que llevo dentro, porque todo esto está escrito para ti… y solo para ti.\n\nDe: Daboyloper\nPara: Brigitte🩵",
         fondo: "IMG/Paginas.jpg"
     },
+
+
+
+
+
+
+
     {
         texto: "Te amo...\nEspero que cuando te des de cuenta\nno sea demasiado tarde...🥀",
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "",
+        texto: "Si pudiera convertir cada\nlatido de mi corazón en\npalabras, escribiría para\nti un poema que nuca\nterminaría...",
         fondo: "IMG/Paginas.jpg"
     },
     {
         texto: "",
         fondo: "IMG/Paginas.jpg"
     },
+
+
+
+
+
+
+
+
     {
         texto: "",
         fondo: "IMG/SemiFinal.png"
