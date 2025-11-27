@@ -8,7 +8,7 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "",
+        texto: "Te amo...\nEspero que cuando te des de cuenta\nno sea demasiado tarde...🥀",
         fondo: "IMG/Paginas.jpg"
     },
     {
