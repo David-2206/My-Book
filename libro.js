@@ -23,7 +23,7 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
     {
-        texto: "",
+        texto: "El echo de que nos\nhayamos conocido me hace muy\nfeliz, al menos a mi, y estaré feliz\nel tiempo que tenga el placer de tu\ncompañía, así sean 10 minutos, o\nmuchos años...",
         fondo: "IMG/Paginas.jpg"
     },
 
