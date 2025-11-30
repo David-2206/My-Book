@@ -25,6 +25,10 @@ const paginas = [
     {
         texto: "El echo de que nos\nhayamos conocido me hace muy\nfeliz, al menos a mi, y estaré feliz\nel tiempo que tenga el placer de tu\ncompañía, así sean 10 minutos, o\nmuchos años...",
         fondo: "IMG/Paginas.jpg"
+    },    
+    {
+        texto: "Me estoy encariñando de usted y no\nsabe lo aterrador y lo increíble que es a\nla vez, quisiera que se quede, que no\nse canse, que no se aburra, que no le\nde miedo la intensidad y que no le de\nmiedo estar conmigo, usted tiene unos\nojos y una sonrisa que no quiero dejar\nde ver nunca.",
+        fondo: "IMG/Paginas.jpg"
     },
 
 
