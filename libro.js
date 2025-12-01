@@ -31,7 +31,10 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },
 
-
+    {
+        texto: "No estaba en mis planes quererte\ntanto. Supongo que así es como\nempiezan las mejores historias,\nporque sin buscarlo contigo ya lo\ntengo todo.",
+        fondo: "IMG/Paginas.jpg"
+    },
 
 
 
