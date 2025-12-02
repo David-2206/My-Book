@@ -27,14 +27,25 @@ const paginas = [
         fondo: "IMG/Paginas.jpg"
     },    
     {
-        texto: "Me estoy encariñando de usted y no\nsabe lo aterrador y lo increíble que es a\nla vez, quisiera que se quede, que no\nse canse, que no se aburra, que no le\nde miedo la intensidad y que no le de\nmiedo estar conmigo, usted tiene unos\nojos y una sonrisa que no quiero dejar\nde ver nunca.",
+        texto: "Me estoy encariñando de usted y no\nsabe lo aterrador y lo increíble que es a\nla vez, quisiera que se quede, que no\nse canse, que no se aburra, que no le\nde miedo la intensidad y que no le de\nmiedo estar conmigo, usted tiene unos\nojos y una sonrisa que no quiero dejar\nde ver nunca...",
         fondo: "IMG/Paginas.jpg"
     },
 
     {
-        texto: "No estaba en mis planes quererte\ntanto. Supongo que así es como\nempiezan las mejores historias,\nporque sin buscarlo contigo ya lo\ntengo todo.",
+        texto: "No estaba en mis planes quererte\ntanto. Supongo que así es como\nempiezan las mejores historias,\nporque sin buscarlo contigo ya lo\ntengo todo...",
         fondo: "IMG/Paginas.jpg"
     },
+
+    {
+        texto: "Hablar por chat no es\nsuficiente, necesito saber\ncuantas pestañas tienes, \ncuantos lunares, verte a los\nojos, tocar tu cabello, \nAbrazarte y que tu olor\nse quedé en mi...",
+        fondo: "IMG/Paginas.jpg"
+    },
+
+    {
+        texto: "si miras la luna verás el arte\ny si te miras al espejo verás\nporque no puedo dejar de amarte...",
+        fondo: "IMG/Paginas.jpg"
+    },
+
 
 
 
